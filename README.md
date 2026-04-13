@@ -22,4 +22,6 @@ Turns out I had "print = (hello world) so when trying to display "student_count"
 <img width="977" height="168" alt="image" src="https://github.com/user-attachments/assets/e70c5166-9ebc-4136-b64b-690e96b7eda9" />
 
 
-I also learned what a floating number is, floating number is essentially a decimal. Booleans value are true or false statements. Also string is a simply just a statement with qoutes so it will display in our output
+I also learned what a floating number is, floating number is essentially a decimal. Booleans value are true or false statements. Also string is a simply just a statement with qoutes so it will display in our output.
+
+Functions are built into the langauge just like certain numbers are options are programmed into a remote.
